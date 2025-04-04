@@ -1,34 +1,46 @@
-V. Erstellen des Projektes (3 Praktika)
-• Repository
-• UML (Anwendungsfälle, Analyseklassen)
-• UML (Verfeinerung, Architektur, Sequenzen)
-• Prototyp der Benutzeroberfläche (mindestens als Mockup)
-• Quellcodegenerierung
-• Implementierung
-• Test
-• Dokumentation (Entwicklerdokumentation, Administratorendokumentation,
-Anwenderdokumentation)
-Aufgaben:
-Legen Sie als Auftragnehmer ein Repository mit Ihrem Versionierungstool an. Fügen Sie
-alle bisherigen Artefakte (z. B. Firmenporträt des Auftraggebers, Lastenheft,
-Ausschreibungstext, Firmenporträt des Auftragnehmers, projektbegleitender Bericht,
-Pflichtenheft, Angebot, Kalkulation, Toolvergleich) dem Repository hinzu.
-Bearbeiten Sie in der Rolle als Auftragnehmer das Projekt mit den Tools der von Ihnen
-ausgewählten Entwicklungsumgebung. Erstellen Sie alle obigen Artefakte und fügen Sie
-diese dem Repository Ihres Versionierungstools hinzu. Automatisieren Sie das Erstellen
-der Artefakte mit Hilfe eines angepassten Build-Skripts.
+## V. Erstellen des Projektes (3 Praktika)
 
-Für die Umsetzung der angebotenen
-IT-Lösung muss sich Ihre Firma nun
-für eine Entwicklungsumgebung
-entscheiden.
+### 🔧 Projektinitialisierung
 
-Mit der ausgewählten
-Entwicklungsumgebung
-wird nun die
-angebotene IT-Lösung
-erstellt.
+- **Repository anlegen**  
+  Das Projekt-Repository wurde mit dem gewählten Versionierungstool (z. B. Git) angelegt.  
+  👉 *Alle Teammitglieder pflegen regelmäßig sinnvolle Commits ein.*
 
-Das Pflichtenheft ist bei allen Folgeaufgaben iterativ weiterzuentwickeln! Nutzen Sie Ihr
-Versionierungstool, in dem alle Mitarbeiter Ihrer Auftragnehmerfirma regelmäßige, in der
-Granularität passende Commits einpflegen.
+- **Ablage bisheriger Artefakte**  
+  Im Repository befinden sich alle bisherigen Dokumente:
+  - Firmenporträts (Auftraggeber & Auftragnehmer)
+  - Lastenheft
+  - Ausschreibungstext
+  - Projektbegleitender Bericht
+  - Pflichtenheft (wird iterativ gepflegt!)
+  - Angebot und Kalkulation
+  - Toolvergleich
+
+---
+
+### 📐 UML-Modellierung
+
+- **Anwendungsfälle & Analyseklassen**  
+  - Erstellung von Use-Case-Diagrammen zur funktionalen Beschreibung
+  - Erste Klassendiagramme zur Analyse der Systemkomponenten
+
+- **Verfeinerung & Architektur**  
+  - Verfeinerung der Analysemodelle
+  - Entwurf der Systemarchitektur (Komponenten, Pakete, ggf. Schichtenmodell)
+  - Erstellung von Sequenzdiagrammen für zentrale Abläufe
+
+---
+
+### 🧪 Prototyping
+
+- **Benutzeroberfläche (Mockup/Prototyp)**  
+  - Erstellung eines UI-Mockups zur frühzeitigen Abstimmung mit dem Kunden
+  - Optional: klickbarer Prototyp mit Tools wie Figma, Adobe XD o. ä.
+
+---
+
+### ⚙️ Entwicklung & Implementierung
+
+- **Quellcodegenerierung**  
+  - Automatisierte Codegenerierung (sofern durch
+
